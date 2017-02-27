@@ -1,7 +1,5 @@
 # Change Log
 
-test change
-
 ## [v2.5](https://github.com/ubsicap/usx/tree/v2.5) (2016-06-25)
 
 
